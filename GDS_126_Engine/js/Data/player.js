@@ -19,7 +19,7 @@ Properties:
 
 var playerData ={
 	info:{
-		src:`images/skull.png`
+		src:`images/Zombie4.png`
 	},
 	states:{
 		//The idle animation 
@@ -33,7 +33,7 @@ var playerData ={
 				{width:32, height:32, startX:32, startY:0},
 				{width:32, height:32, startX:0, startY:32},
 				{width:32, height:32, startX:32, startY:32},
-				{width:32, height:32, startX:0, startY:64}
+				//{width:32, height:32, startX:0, startY:64}
 			]
 		},
 		//The walk animation 
