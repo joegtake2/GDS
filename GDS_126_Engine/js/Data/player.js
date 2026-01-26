@@ -29,10 +29,10 @@ var playerData ={
 			cycle:true,
 			frames:
 			[
-				{width:32, height:32, startX:0, startY:0},
-				{width:32, height:32, startX:32, startY:0},
-				{width:32, height:32, startX:0, startY:32},
-				{width:32, height:32, startX:32, startY:32},
+				{width:128, height:128, startX:0, startY:0},
+				{width:128, height:128, startX:128, startY:0},
+				{width:128, height:128, startX:256, startY:0},
+				{width:128, height:128, startX:384, startY:0},
 				//{width:32, height:32, startX:0, startY:64}
 			]
 		},
@@ -43,8 +43,8 @@ var playerData ={
 			cycle:true,
 			frames:
 			[
-				{width:32, height:32, startX:0, startY:0},
-				{width:32, height:32, startX:32, startY:32}
+				{width:128, height:128, startX:0, startY:0},
+				{width:128, height:128, startX:128, startY:0}
 			]
 		},
 		//The jump animation 
